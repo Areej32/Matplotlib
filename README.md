@@ -1,4 +1,4 @@
-# Matplotlib
+# Matplotlib please check copy 2 it is the final one
 OBSERVATION
 
 1* we noticed that the relation between # of drivers and the avg fare is an (inverse one).
