@@ -1,4 +1,13 @@
 # Matplotlib
+OBSERVATION
+
+1* we noticed that the relation between # of drivers and the avg fare is an (inverse one).
+2* The avg fare is higher in Rural areas than either Urban or Suberban
+3* as a conclusion from  #1 an #2 we can say that we can expand # of driveres in Rular areas.
+
+
+
+
 # Unit 5 | Assignment - The Power of Plots
 
 ## Background
